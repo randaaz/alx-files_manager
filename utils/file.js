@@ -6,7 +6,7 @@ import userUtils from './user';
 import basicUtils from './basic';
 
 /**
- * Module with file utilities
+ * Module with file utilities.
  */
 const fileUtils = {
   /**
